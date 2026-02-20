@@ -8,10 +8,14 @@
     - **Api** : Used the quantmod package of R programming to fetch real time data from yahoo finance .
 
 ### Demo
-![Project Demo](./img1.png)
-<br><br><br><br><br><br><br><br>
-![Project Demo](./img2.png)
-<br><br><br><br><br><br><br><br>
-![Project Demo](./img3.png)
-<br><br><br><br><br><br><br><br>
-![Project Demo](./img4.png)
+![Project Demo](./Demo/img1.png)
+<br><br><br><br><br>
+![Project Demo](./Demo/img2.png)
+<br><br><br><br><br>
+![Project Demo](./Demo/img3.png)
+<br><br><br><br><br>
+![Project Demo](./Demo/img4.png)
+
+### Author
+
+**Made by Vivek Patel**
